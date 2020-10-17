@@ -23,7 +23,7 @@
    
 5. Ikuti perintah di aku.pengen.pw! Username dan password bisa didapatkan dari file .pcapng!
 
-   `http.host contains "aku.pengen.pw"`
+   `http.host == aku.pengen.pw`
    
    Buka length 574 -> hypertext -> authorization -> credential
    
