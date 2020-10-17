@@ -78,7 +78,7 @@
    
 10. Cari file .pdf di wireshark lalu download dan buka file tersebut! clue: "25 50 44 46"
 
-   CTRL - Find -> 35 50 44 46 -> Follow stream -> save as sesuai format file
+     CTRL - Find -> 35 50 44 46 -> Follow stream -> save as sesuai format file
    
    ![10](https://user-images.githubusercontent.com/61223768/96330469-a8928e00-107f-11eb-9c5a-3354dc006df4.jpg)
    ![1010](https://user-images.githubusercontent.com/61223768/96330493-cd870100-107f-11eb-9585-d4cbe788ac8b.jpg)
