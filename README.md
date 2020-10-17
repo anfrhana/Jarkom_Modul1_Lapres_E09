@@ -90,7 +90,7 @@
 
     `tcp port 21`
     
-    ![11](https://user-images.githubusercontent.com/61223768/96330473-adefd880-107f-11eb-9e79-e211172c4ad6.jpg)
+    ![messageImage_1602921181644](https://user-images.githubusercontent.com/61223768/96332304-548ea600-108d-11eb-94e6-2ed2ec176db4.jpg)
     
 12. Filter sehingga wireshark hanya mengambil paket yang berasal dari port 80!
 
